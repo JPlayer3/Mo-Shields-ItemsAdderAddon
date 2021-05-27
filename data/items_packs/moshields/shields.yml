@@ -1,1 +1,131 @@
-
+info:
+  namespace: moshields
+items:
+  amerboro_shield:
+    display_name: display-name-amerboro_shield
+    permission: moshields.shields.amerboro_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/amerboro_shield
+  bronze_shield:
+    display_name: display-name-bronze_shield
+    permission: moshields.shields.bronze_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/bronze_shield
+  centurion_shield:
+    display_name: display-name-centurion_shield
+    permission: moshields.shields.centurion_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/centurion_shield
+  chargin_shield:
+    display_name: display-name-chargin_shield
+    permission: moshields.shields.chargin_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/chargin_shield
+  crown_shield:
+    display_name: display-name-crown_shield
+    permission: moshields.shields.crown_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/crown_shield
+  dragonborn_shield:
+    display_name: display-name-dragonborn_shield
+    permission: moshields.shields.dragonborn_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/dragonborn_shield
+  ender_shield:
+    display_name: display-name-ender_shield
+    permission: moshields.shields.ender_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/ender_shield
+  frozen_shield:
+    display_name: display-name-frozen_shield
+    permission: moshields.shields.frozen_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/frozen_shield
+  gilded_ender_shield:
+    display_name: display-name-gilded_ender_shield
+    permission: moshields.shields.gilded_ender_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/gilded_ender_shield
+  hrafn_shield:
+    display_name: display-name-hrafn_shield
+    permission: moshields.shields.hrafn_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/hrafn_shield
+  ikaros_shield:
+    display_name: display-name-ikaros_shield
+    permission: moshields.shields.ikaros_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/ikaros_shield
+  jotunn_shield:
+    display_name: display-name-jotunn_shield
+    permission: moshields.shields.jotunn_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/jotunn_shield
+  spartan_shield:
+    display_name: display-name-spartan_shield
+    permission: moshields.shields.spartan_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/spartan_shield
+  suns_shield:
+    display_name: display-name-suns_shield
+    permission: moshields.shields.suns_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/suns_shield
+  templar_shield:
+    display_name: display-name-templar_shield
+    permission: moshields.shields.templar_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/templar_shield
+  wooden_shield:
+    display_name: display-name-wooden_shield
+    permission: moshields.shields.wooden_shield
+    resource:
+      material: SHIELD
+      #model_id: 1000
+      generate: false
+      model_path: velocigamerbr/wooden_shield

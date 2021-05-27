@@ -1,0 +1,26 @@
+info:
+  namespace: moshields
+categories:
+  shields:
+    enabled: true
+    skip_if_already: false
+    icon: "moshields:amerboro_shield"
+    name: display-name-moshields
+    permission: "itemsadder.moshields.shields"
+    items:
+      - "moshields:amerboro_shield"
+      - "moshields:bronze_shield"
+      - "moshields:centurion_shield"
+      - "moshields:chargin_shield"
+      - "moshields:crown_shield"
+      - "moshields:dragonborn_shield"
+      - "moshields:ender_shield"
+      - "moshields:frozen_shield"
+      - "moshields:gilded_ender_shield"
+      - "moshields:hrafn_shield"
+      - "moshields:ikaros_shield"
+      - "moshields:jotunn_shield"
+      - "moshields:spartan_shield"
+      - "moshields:suns_shield"
+      - "moshields:templar_shield"
+      - "moshields:wooden_shield"

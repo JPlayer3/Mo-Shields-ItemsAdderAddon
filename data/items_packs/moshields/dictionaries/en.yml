@@ -1,0 +1,21 @@
+info:
+  namespace: moshields
+  dictionary-lang: "en"
+dictionary:
+  display-name-moshields: Mo' Shields - VelociGamerBR
+  display-name-amerboro_shield: Amerboro Shield
+  display-name-bronze_shield: Bronze Shield
+  display-name-centurion_shield: Centurion Shield
+  display-name-chargin_shield: Chargin Shield
+  display-name-crown_shield: Crown Shield
+  display-name-dragonborn_shield: Dragonborn Shield
+  display-name-ender_shield: Ender Shield
+  display-name-frozen_shield: Frozen Shield
+  display-name-gilded_ender_shield: Gilded Ender Shield
+  display-name-hrafn_shield: Hrafn Shield
+  display-name-ikaros_shield: Ikaros Shield
+  display-name-jotunn_shield: Jotunn Shield
+  display-name-spartan_shield: Spartan Shield
+  display-name-suns_shield: Suns Shield
+  display-name-templar_shield: Templar Shield
+  display-name-wooden_shield: Wooden Shield

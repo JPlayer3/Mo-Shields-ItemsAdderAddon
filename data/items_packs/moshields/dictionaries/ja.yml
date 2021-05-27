@@ -1,0 +1,21 @@
+info:
+  namespace: moshields
+  dictionary-lang: "ja"
+dictionary:
+  display-name-moshields: Mo' Shields - VelociGamerBR
+  display-name-amerboro_shield: アメルボロシールド
+  display-name-bronze_shield: 銅製の盾
+  display-name-centurion_shield: センチュリオンシールド
+  display-name-chargin_shield: チャージングシールド
+  display-name-crown_shield: クラウンシールド
+  display-name-dragonborn_shield: ドラゴンボーンシールド
+  display-name-ender_shield: エンダーシールド
+  display-name-frozen_shield: 凍った盾
+  display-name-gilded_ender_shield: 金色のエンダーシールド
+  display-name-hrafn_shield: カラスシールド
+  display-name-ikaros_shield: イカロスの盾
+  display-name-jotunn_shield: 霜の巨人の盾
+  display-name-spartan_shield: スパルタンの盾
+  display-name-suns_shield: 太陽の盾
+  display-name-templar_shield: テンプル騎士団の盾
+  display-name-wooden_shield: 木製の盾
