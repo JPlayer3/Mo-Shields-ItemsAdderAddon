@@ -1,5 +1,5 @@
 {
-    "parent": "moshields:velocigamerbr/gilded_ender",
+    "parent": "moshields:velocigamerbr/gilded_ender_shield",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [30, -20, 0],

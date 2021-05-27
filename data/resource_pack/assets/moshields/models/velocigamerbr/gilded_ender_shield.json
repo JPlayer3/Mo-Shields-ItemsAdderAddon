@@ -3,9 +3,9 @@
   "parent": "models/item/shield",
   "ambientocclusion": false,
   "textures": {
-    "2": "moshields:velocigamerbr/gilded_ender",
+    "2": "moshields:velocigamerbr/gilded_ender_shield",
     "3": "moshields:velocigamerbr/gilded_ender_buckler_shield_shape",
-    "particle": "moshields:velocigamerbr/gilded_ender"
+    "particle": "moshields:velocigamerbr/gilded_ender_shield"
   },
   "elements": [
     {
