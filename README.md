@@ -1,7 +1,6 @@
 # Mo-Shields-ItemsAdderAddon
 <br>
 <img src="https://i.gyazo.com/d504004a3fc7b38e2a8b5ad237497c83.png" width="50%" height="50%"> 
-<br>
 Add to ItemsAdded.<br>
 All shields have the same performance as vanilla shields.<br>
 <br>
